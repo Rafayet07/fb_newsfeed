@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fb_newsfeed/static/css/main.491b6f51.chunk.css",
+    "main.js": "/fb_newsfeed/static/js/main.dc3f6c0a.chunk.js",
+    "main.js.map": "/fb_newsfeed/static/js/main.dc3f6c0a.chunk.js.map",
+    "runtime-main.js": "/fb_newsfeed/static/js/runtime-main.a71512dd.js",
+    "runtime-main.js.map": "/fb_newsfeed/static/js/runtime-main.a71512dd.js.map",
+    "static/js/2.e52197d7.chunk.js": "/fb_newsfeed/static/js/2.e52197d7.chunk.js",
+    "static/js/2.e52197d7.chunk.js.map": "/fb_newsfeed/static/js/2.e52197d7.chunk.js.map",
+    "static/js/3.f6edaf8c.chunk.js": "/fb_newsfeed/static/js/3.f6edaf8c.chunk.js",
+    "static/js/3.f6edaf8c.chunk.js.map": "/fb_newsfeed/static/js/3.f6edaf8c.chunk.js.map",
+    "index.html": "/fb_newsfeed/index.html",
+    "static/css/main.491b6f51.chunk.css.map": "/fb_newsfeed/static/css/main.491b6f51.chunk.css.map",
+    "static/js/2.e52197d7.chunk.js.LICENSE.txt": "/fb_newsfeed/static/js/2.e52197d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71512dd.js",
+    "static/js/2.e52197d7.chunk.js",
+    "static/css/main.491b6f51.chunk.css",
+    "static/js/main.dc3f6c0a.chunk.js"
+  ]
+}
